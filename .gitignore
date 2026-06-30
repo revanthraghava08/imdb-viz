@@ -1,0 +1,5 @@
+imdb.db
+.ipynb_checkpoints/
+venv/
+__pycache__/
+*.pyc
