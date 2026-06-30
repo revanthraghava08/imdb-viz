@@ -3,7 +3,7 @@
 An interactive Streamlit dashboard analyzing the IMDb Top 1000 movies dataset — built as Level 3 of my Data Science & AI/ML roadmap, covering data visualization (Matplotlib, Seaborn) and SQL (SQLite).
 
 ## 🚀 Live Demo
-[View the dashboard](https://your-app-url.streamlit.app)
+[View the dashboard](https://imdb-analytics.streamlit.app)
 
 ## Features
 - Interactive filters — minimum rating slider, genre dropdown
