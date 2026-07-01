@@ -19,7 +19,6 @@ Python · Pandas · Matplotlib · Seaborn · SQLite · Streamlit
 
 ## Project Structure
 - `app.py` — the dashboard
-- `notebooks/` — exploration notebooks from learning each library (Matplotlib, Seaborn, SQL)
 - `imdb_top_1000_cleaned.csv` — cleaned dataset (cleaned in an earlier EDA project)
 
 ## Run Locally
