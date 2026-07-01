@@ -22,10 +22,10 @@ Python · Pandas · Matplotlib · Seaborn · SQLite · Streamlit
 - `imdb_top_1000_cleaned.csv` — cleaned dataset (cleaned in an earlier EDA project)
 
 ## Run Locally
-\`\`\`bash
+```bash
 pip install -r requirements.txt
 streamlit run app.py
-\`\`\`
+```
 
 ## Related Project
 This dashboard reuses the dataset cleaned in [imdb-eda](https://github.com/revanthraghava08/imdb-eda), my Level 2 EDA project.
